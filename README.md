@@ -1,9 +1,13 @@
-# tracking_speech_adpcc_ecog_hd
+# High-density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech
 Repository contains code for the results described in the paper
 
 Here we investigated high-density intracranial responses to speech in a feature film. Our focus was on the dorsal (pre)motor cortex, defined here as the dorsal part of the precentral gyrus and its surrounding areas with similar functional response. First, we showed that dorsal precentral cortex (dPCC) exhibited preference to speech over other tested sounds. Second, it was involved in tracking of speech auditory properties including speech spectral envelope, its rhythmic phrasal pattern and pitch contour. Third, it showed the ability to filter out noise from the perceived speech. Comparing these results to data from motor experiments showed that the identified region had a distinct location in dPCC, anterior to the hand motor area and superior to the mouth articulator region. Finally, we observed that the present findings were prominent in high-density intracranial data (~1mm electrode diameter, ~3mm inter-electrode distance) and lessened in subjects implanted with standard-density electrodes (~2mm electrode diameter, ~10mm inter-electrode distance).
 
-The repository contains code for
+
+![Alt text](/git_front.png?raw=true "Main results")
+
+
+**The repository contains code for**
  
 - some control analyses on the audio
 - t-test on average high frequency band (HFB) neural responses in dPCC to speech vs non-speech fragments
@@ -25,11 +29,14 @@ Dependencies:
 
 Written in Python 3.7
 
+
+**Data availability**
+
 The neural data supporting the current study are not shared here due to the restrictions on public sharing of the patients’ data. However it is possible to arrange access to the data through a data transfer agreement between research institutions. Interested parties can contact us [here](http://www.nick-ramsey.eu/contact/).
 
+
+**About us**
 This work was done at the BCI lab of the University Medical Center in Utrecht. For more information please visit us at:
 - [our github account](https://github.com/UMCU-RIBS)
 - [our website](http://www.nick-ramsey.eu)
 
-
-![Alt text](/git_front.png?raw=true "Main results")
