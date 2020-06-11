@@ -32,7 +32,7 @@ Written in Python 3.7
 
 ### Data availability
 
-The neural data supporting the current study are not shared here due to the restrictions on public sharing of the patients’ data. However it is possible to arrange access to the data through a data transfer agreement between research institutions. Interested parties can contact us [here](http://www.nick-ramsey.eu/contact/).
+The neural data supporting the current study are not shared here due to the restrictions on public sharing of the patients’ data. However it is possible to arrange access to the data through a data transfer agreement between research institutes. Interested parties can contact us [here](http://www.nick-ramsey.eu/contact/).
 
 
 ### About us
