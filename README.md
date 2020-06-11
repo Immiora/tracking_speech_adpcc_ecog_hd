@@ -7,7 +7,7 @@ Here we investigated high-density intracranial responses to speech in a feature 
 ![Alt text](/git_front.png?raw=true "Main results")
 
 
-**The repository contains code for**
+### The repository contains code for
  
 - some control analyses on the audio
 - t-test on average high frequency band (HFB) neural responses in dPCC to speech vs non-speech fragments
@@ -30,12 +30,13 @@ Dependencies:
 Written in Python 3.7
 
 
-**Data availability**
+### Data availability
 
 The neural data supporting the current study are not shared here due to the restrictions on public sharing of the patients’ data. However it is possible to arrange access to the data through a data transfer agreement between research institutions. Interested parties can contact us [here](http://www.nick-ramsey.eu/contact/).
 
 
-**About us**
+### About us
+
 This work was done at the BCI lab of the University Medical Center in Utrecht. For more information please visit us at:
 - [our github account](https://github.com/UMCU-RIBS)
 - [our website](http://www.nick-ramsey.eu)
