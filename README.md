@@ -1,9 +1,6 @@
 # High-density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech
 Repository contains code for the results described in the paper
 
-Here we investigated high-density intracranial responses to speech in a feature film. Our focus was on the dorsal (pre)motor cortex, defined here as the dorsal part of the precentral gyrus and its surrounding areas with similar functional response. First, we showed that dorsal precentral cortex (dPCC) exhibited preference to speech over other tested sounds. Second, it was involved in tracking of speech auditory properties including speech spectral envelope, its rhythmic phrasal pattern and pitch contour. Third, it showed the ability to filter out noise from the perceived speech. Comparing these results to data from motor experiments showed that the identified region had a distinct location in dPCC, anterior to the hand motor area and superior to the mouth articulator region. Finally, we observed that the present findings were prominent in high-density intracranial data (~1mm electrode diameter, ~3mm inter-electrode distance) and lessened in subjects implanted with standard-density electrodes (~2mm electrode diameter, ~10mm inter-electrode distance).
-
-
 ![Alt text](/git_front.png?raw=true "Main results")
 
 
