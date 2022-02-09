@@ -39,7 +39,7 @@ This work was done at the BCI lab of the University Medical Center in Utrecht. F
 - [our website](http://www.nick-ramsey.eu)
 
 
-### Citration
+### Citation
 
 If this code is useful for you, please cite related work:
 
