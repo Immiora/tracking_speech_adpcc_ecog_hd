@@ -38,3 +38,9 @@ This work was done at the BCI lab of the University Medical Center in Utrecht. F
 - [our github account](https://github.com/UMCU-RIBS)
 - [our website](http://www.nick-ramsey.eu)
 
+
+### Citration
+
+If this code is useful for you, please cite related work:
+
+Berezutskaya, J., Baratin, C., Freudenburg, Z. V., & Ramsey, N. F. (2020). [High‐density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25144). Human brain mapping, 41(16), 4587-4609. https://doi.org/10.1002/hbm.25144
